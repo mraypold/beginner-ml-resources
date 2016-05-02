@@ -9,6 +9,7 @@ A collection of links I have found interesting or useful.
 
 ### Natural Language Processing
 
+* [Coursera (Stanford) - Natural Language Processing Video Lectures](https://class.coursera.org/nlp/lecture)
 * [Deep Language Modeling for Question Answering using Keras](http://benjaminbolte.com/blog/2016/keras-language-modeling.html)
 * [Ryan Rosario - Sentiment Classification Using scikit-learn](https://www.youtube.com/watch?v=y3ZTKFZ-1QQ)
 * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
