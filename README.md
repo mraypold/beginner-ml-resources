@@ -2,6 +2,7 @@
 
 A collection of links I have found interesting or useful.
 
+Links marked with * are slightly more advanced.
 
 ### Textbooks (PDF)
 
@@ -21,4 +22,4 @@ A collection of links I have found interesting or useful.
 
 ### Clustering
 
-* [Comparing Python Clustering Algorithms](http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb)
+* [Comparing Python Clustering Algorithms *](http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb)
