@@ -18,3 +18,7 @@ A collection of links I have found interesting or useful.
 
 ### Neural Networks
 * [Neural Networks Demystified](https://www.youtube.com/watch?v=5MXp9UUkSmc)
+
+### Clustering
+
+* [Comparing Python Clustering Algorithms](http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb)
