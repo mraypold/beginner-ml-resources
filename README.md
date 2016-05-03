@@ -33,3 +33,4 @@ Links marked with * are slightly more advanced.
 
 ### Training Data
 * [ImageNet - Image Database](http://image-net.org/index)
+* [WordNet - A lexical database for English](https://wordnet.princeton.edu/)
