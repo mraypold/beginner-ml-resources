@@ -24,5 +24,12 @@ Links marked with * are slightly more advanced.
 
 * [Comparing Python Clustering Algorithms *](http://nbviewer.jupyter.org/github/lmcinnes/hdbscan/blob/master/notebooks/Comparing%20Clustering%20Algorithms.ipynb)
 
+### Bayesian Statistics 
+
+* [A Guide to Bayesian Statistics](https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics)
+* [Bayes's Rule: Guide](https://arbital.com/p/bayes_rule/?l=1zq)
+* [Think Bayes - Bayesian Statistics Made Simple](http://greenteapress.com/wp/think-bayes/)
+
+
 ### Training Data
 * [ImageNet - Image Database](http://image-net.org/index)
