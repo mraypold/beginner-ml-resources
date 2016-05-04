@@ -16,6 +16,7 @@ Links marked with * are slightly more advanced.
 * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial/details/part-1-for-beginners-bag-of-words)
 * [Twitter Sentiment Analysis using Python and NLTK](http://www.laurentluce.com/posts/twitter-sentiment-analysis-using-python-and-nltk/)
 * [Sentiment Analysis Datasets - StackOverflow](http://stackoverflow.com/questions/24605702/good-dataset-for-sentimental-analysis)
+* [Using naive bayes to predict movie review sentiment](https://www.dataquest.io/blog/naive-bayes-movies/)
 
 ### Neural Networks
 * [Neural Networks Demystified](https://www.youtube.com/watch?v=5MXp9UUkSmc)
