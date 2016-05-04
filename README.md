@@ -32,6 +32,10 @@ Links marked with * are slightly more advanced.
 * [Think Bayes - Bayesian Statistics Made Simple](http://greenteapress.com/wp/think-bayes/)
 
 
+### Facial Recognition
+
+* [Building a live facial recognition system](https://www.youtube.com/watch?v=MDaZtJPv3Ik)
+
 ### Training Data
 * [ImageNet - Image Database](http://image-net.org/index)
 * [WordNet - A lexical database for English](https://wordnet.princeton.edu/)
