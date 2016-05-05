@@ -8,6 +8,10 @@ Links marked with * are slightly more advanced.
 
 * [Introduction To Machine Learning](http://alex.smola.org/drafts/thebook.pdf)
 
+### Online Courses
+
+* [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning/)
+
 ### Natural Language Processing
 
 * [Coursera (Stanford) - Natural Language Processing Video Lectures](https://class.coursera.org/nlp/lecture)
