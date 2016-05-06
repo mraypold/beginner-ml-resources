@@ -41,5 +41,7 @@ Links marked with * are slightly more advanced.
 * [Building a live facial recognition system](https://www.youtube.com/watch?v=MDaZtJPv3Ik)
 
 ### Training Data
+
 * [ImageNet - Image Database](http://image-net.org/index)
 * [WordNet - A lexical database for English](https://wordnet.princeton.edu/)
+* [UC Irvine Machine Learning Repository](http://archive.ics.uci.edu/ml/)
